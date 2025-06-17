@@ -11,6 +11,7 @@ AUTH_USERS = [int(user_id) for user_id in AUTH_USER]
 HOST = "https://drm-api-six.vercel.app"
 CREDIT = "kaka"
 ADMIN_ID = [7833842279]
+DB_NAME = "alokjangde6"
 DB_URL = "mongodb+srv://alokjangde6:Sapnaipali71$@cluster0.cx60pkr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 LOG_CHANNEL = -1002548493129 # Your Log Channel ID (Bot ko ADMIN BNAYE)
 USERLINK = "t.me/Alliswell71"
